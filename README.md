@@ -4,7 +4,8 @@ Hi I made this project during the 7 Days Free Bootcamp, conducted by <b> DevTown
 The instructor during the session was Mr. Shaurya Sinha (Co-Founder at DevTown). I got to
 learn a lot during these 7 days and it was an amazing experience learning with DevTown.
 <br><br>Here's the link for you to watch the sessions as well<br>
-<a href="https://www.youtube.com/playlist?list=PL7zl8TDRnbulNEA-59W7wWgCWE8LEOD6h"> <img src="![image](https://user-images.githubusercontent.com/104710227/193412869-699257ba-b193-4777-8da1-2be5d60491c8.png)"> </a>
+<a href="https://www.youtube.com/playlist?list=PL7zl8TDRnbulNEA-59W7wWgCWE8LEOD6h"> ![image](https://user-images.githubusercontent.com/104710227/193412912-7b51cf71-c411-4a38-a1e5-9e2aa099dd65.png)
+ </a>
 <br>I got to have hands on experience on:
 <li>Python
 <li>Machine Learning
