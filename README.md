@@ -1,6 +1,5 @@
 # Python_MachineLearning
 Linear Regression using Boston House Pricing
-# SHAPEAI PYTHON AND MACHINE LEARNING BOOTCAMP
 # DevTown PYTHON AND MACHINE LEARNING BOOTCAMP
 Hi I made this project during the 7 Days Free Bootcamp, conducted by <b> DevTown
 </b>.
